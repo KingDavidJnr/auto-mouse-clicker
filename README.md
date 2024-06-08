@@ -22,8 +22,8 @@
 First, clone the repository:
 
 ```sh
-git clone https://github.com/your_username/auto-clicker.git
-cd auto-clicker
+git clone https://github.com/KingDavidJnr/auto-mouse-clicker.git
+cd auto-mouse-clicker
 ```
 
 Then, install the required dependencies:
