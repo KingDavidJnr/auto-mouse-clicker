@@ -15,7 +15,7 @@ setup(
     author='David Oduse',
     author_email='odusedavid@gmail.com',
     description='Python auto-clicker script that automates mouse clicks at defined intervals and visually indicates each click with a bubble overlay.',
-    long_description=open('README.md').read(),
+    long_description=open('DOCS.md').read(),
     long_description_content_type='text/markdown',
     url='https://github.com/KingDavidJnr/auto-mouse-clicker',
     license='MIT',
